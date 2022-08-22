@@ -12,7 +12,7 @@
 </a>
  
  <a href="https://github.com/INSOCCI/github-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INSOCCI&layout=compact" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INSOCCI&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2%/>
 </a>
  
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
