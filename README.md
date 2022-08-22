@@ -7,11 +7,6 @@
 
 <!-- insocci's profile -->
 
-    <!-- title_color: "ff8f1c",
-    icon_color: "250E62",
-    text_color: "509E2F",
-    bg_color: "ffffff", -->
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=INSOCCI&show_icons=true&theme=flag-india&hide_border=true&bg_color=fff&icon_color=250E62&text_color=509E2F&title_color=ff8f1c" width=49.2% />
 </a>
