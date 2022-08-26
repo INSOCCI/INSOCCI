@@ -9,18 +9,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=INSOCCI&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% />
 </a>
-
-<!--  <!-- MY Stack -->
- 
-<a href="https://github.com/INSOCCI/INSOCCI/edit/main/README.md">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white">  
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-</a> -->
- 
-<br/>
  
  <a href="https://github.com/INSOCCI/github-stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INSOCCI&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2%/>
